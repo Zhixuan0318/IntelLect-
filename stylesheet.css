@@ -1,0 +1,33 @@
+body{
+  background-color: #95c48a;
+}
+
+img{
+  width: 1200px;
+  margin-top: 20px;
+}
+
+h1{
+  font-size: 150px;
+  color: white;
+  margin: 150px 50px 10px 40px;
+}
+
+p{
+  font-size: 30px;
+  color: white;
+  margin: 0 0px 30px 50px;
+}
+
+button{
+  height: 80px;
+  width: 300px;
+  margin: 250px 50px 10px 40px;
+  border-radius: 30px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
